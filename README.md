@@ -20,7 +20,7 @@ This is a simple Spring Boot application that simulates an insurance purchase sy
 
 - **Get All Insurances**
   ```bash
-  curl -X GET http://localhost:9001/insurance/all or curl -X GET http://localhost:9001/public
+  curl -X GET http://localhost:9001/insurance or curl -X GET http://localhost:9001/public
 
 ## Swagger UI Integration
 
