@@ -21,3 +21,7 @@ This is a simple Spring Boot application that simulates an insurance purchase sy
 - **Get All Insurances**
   ```bash
   curl -X GET http://localhost:9001/insurance/all or curl -X GET http://localhost:9001/public
+
+## Swagger UI Integration
+
+Swagger UI provides a beautiful and interactive documentation page for the API endpoints. You can easily test API endpoints, see request/response formats, and much more.
